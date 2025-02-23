@@ -8,6 +8,11 @@ body {
     color: #333;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    color: #555;
+}
+
 .container {
     max-width: 1200px;
 }
@@ -41,7 +46,12 @@ body {
 }
 
 .hero h1, .hero p {
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: white;
+    text-shadow: 3px 3px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
     position: relative;
 }
 
@@ -58,8 +68,6 @@ body {
 }
 
 .card-title {
-    font-family: 'Montserrat', sans-serif;
-    color: #555;
     text-align: center;
     margin-top: 1rem;
 }
