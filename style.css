@@ -8,7 +8,8 @@ body {
     */ 
     background-image: url('SwatchSquare-01.png');
     background-position: center center;
-    background-repeat: repeat;    
+    background-repeat: repeat; 
+    background-size: 20em;
     color: #333;
 }
 
