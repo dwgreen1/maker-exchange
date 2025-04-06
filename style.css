@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero {
     position: relative;
     /*background: url('maker-exchange.png') repeat center center/cover;*/
-    background-color: ;#fd7e14;
+    background-color: #fd7e14;
     height: 60vh;
     color: white;
 }
