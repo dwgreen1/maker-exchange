@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 1200px) {
     .hero {
-        background-image: url('Chartreuse_Logo-500.png');
+        background-image: url('Chartreuse_Logo-04.png');
     }
     .main-container {
         margin-top: -9%; /* Extra large screens */
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 1400px) {
      .hero {
-        background-image: url('Chartreuse_Logo-500.png');
+        background-image: url('Chartreuse_Logo-04.png');
     }
     .main-container {
         margin-top: -7%; /* Very large screens */
